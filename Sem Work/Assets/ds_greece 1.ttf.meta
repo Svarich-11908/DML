@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 681d6373cd54fda4b86e8dc97b5e9e12
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DS Greece
+  fontNames:
+  - DS Greece
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c3565f8ba91cfaa4a8576f5bfb7478af, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
